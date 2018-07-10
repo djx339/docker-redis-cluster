@@ -4,7 +4,7 @@ Using docker setup a redis cluster for development and testing.
 ## Start Cluster
 
 ```
-./init.sh
+bash ./init.sh
 ```
 
 **NOTE**: This script may take a few minutes to download the docker image.
